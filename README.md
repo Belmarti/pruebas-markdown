@@ -107,7 +107,7 @@ con una ! delante para diferenciar de enlace: []() corchetes para el nombre y pa
 
 :smiley:
 
-:Sunny:
+:sunny:
 
 <!--9. Insertar video de youtube -->
 ***
